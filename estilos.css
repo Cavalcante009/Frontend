@@ -1,0 +1,51 @@
+body{
+
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-size: medium;
+    
+    background-image: url("https://www.egeniq.com/sites/default/files/2020-06/frontend_webdeveloper.jpg");
+    background-color: #cccccc; 
+    
+    /* Essa tag adiciona uma imagem na pagina em estilo css*/
+    }
+    
+    h1 {
+    
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: larger;
+    color: rgb(241, 238, 245);
+    
+    }
+    
+    
+    h2{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-size: larger;
+        color:rgb(241, 238, 245);
+        
+    }
+    
+    button {
+        background-color: lightgreen;
+    
+    
+    }
+    
+    p {
+    
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-size: larger;
+        color:rgb(241, 238, 245);
+        
+    
+    }
+    
+    
+    
